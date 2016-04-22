@@ -15,7 +15,6 @@ elementaryOS 或 Ubuntu 上的 Web 版微信应用。
 
 ![](screenshot/screenshot2.png)
 ![](screenshot/screenshot3.png)
-![](screenshot/screenshot4.png)
 
 ## 依赖
 
