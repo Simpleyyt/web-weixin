@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=微信
+GenericName=微信
+Comment=微信，是一个生活方式
+Exec=weixin
+Icon=weixin
+Terminal=false
+Type=Application
+Categories=Network
