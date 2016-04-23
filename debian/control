@@ -1,0 +1,15 @@
+Source: web-weixin
+Section: net
+Priority: optional
+Maintainer: Yitao Yao <simpleyyt@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), cmake, libgee-0.8-dev, libglib2.0-dev, libgtk-3-dev, libwebkit2gtk-4.0-dev, libappindicator3-dev, valac (>= 0.26)
+Standards-Version: 3.9.5
+Homepage: http://simpleyyt.github.io/web-weixin/
+#Vcs-Git: git://git.debian.org/collab-maint/web-weixin.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/web-weixin.git;a=summary
+
+Package: web-weixin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Web weixin for elementaryOS or Ubuntu
+ Web weixin for elementaryOS or Ubuntu.

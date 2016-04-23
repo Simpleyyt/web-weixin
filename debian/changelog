@@ -1,0 +1,23 @@
+web-weixin (1.0.2) trusty; urgency=low
+
+  * Add depends
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Fri, 23 Apr 2016 10:21:25 +0800
+
+web-weixin (1.0.1) trusty; urgency=low
+
+  * Add depends
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Fri, 23 Apr 2016 10:21:25 +0800
+
+web-weixin (1.0.0-1) trusty; urgency=low
+
+  * Update debian package
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Fri, 23 Apr 2016 10:21:25 +0800
+
+web-weixin (1.0-1) trusty; urgency=low
+
+  * Initial release
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Fri, 22 Apr 2016 21:40:25 +0800

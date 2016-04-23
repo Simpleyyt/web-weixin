@@ -13,8 +13,16 @@ elementaryOS 或 Ubuntu 上的 Web 版微信应用。
 
 ## 截图
 
-![](screenshot/qrcode.png)
-![](screenshot/indicator.png)
+![libnotify 提醒](screenshot/indicator.png)
+
+## 安装
+
+添加 PPA 并安装：
+
+```sh
+sudo add-apt-repository ppa:simpleyyt/ppa
+sudo apt-get update
+sudo apt-get install web-weixin
 
 ## 依赖
 
