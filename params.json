@@ -1,6 +1,6 @@
 {
-  "name": "Web版微信",
+  "name": "Web 版微信",
   "tagline": "elementaryOS 或 Ubuntu 上的 Web 版微信应用。",
-  "body": "# Web版微信应用\r\n\r\nelementaryOS 或 Ubuntu 上的 Web 版微信应用。\r\n\r\n![](https://raw.githubusercontent.com/Simpleyyt/web-weixin/master/screenshot/main.png)\r\n\r\n## 功能\r\n\r\n * 完整的 Web 微信功能\r\n * 独立的窗口扫码界面\r\n * 支持 AppIndication 并有蓝点提示消息功能。\r\n * 支持 libnotify 消息提醒。\r\n\r\n## 依赖\r\n\r\n * gobject-2.0\r\n * glib-2.0\r\n * gio-2.0\r\n * gtk+-3.0>=3.12\r\n * webkit2gtk-4.0\r\n * appindicator3-0.1\r\n\r\n## 编译\r\n\r\n```sh\r\nmkdir build\r\ncd build\r\ncmake .. -DCMAKE_INSTALL_PREFIX=/usr\r\nmake\r\nsudo make install\r\n```\r\n\r\n## Bugs\r\n\r\n * 有时候需要退2次才能退出程序。\r\n\r\n",
+  "body": "# Web 版微信应用\r\n\r\nelementaryOS 或 Ubuntu 上的 Web 版微信应用。\r\n\r\n![](https://raw.githubusercontent.com/Simpleyyt/web-weixin/master/screenshot/main.png)\r\n\r\n## 功能\r\n\r\n * 完整的 Web 微信功能\r\n * 独立的窗口扫码界面\r\n * 支持 AppIndication 并有蓝点提示消息功能。\r\n * 支持 libnotify 消息提醒。\r\n\r\n## 截图\r\n\r\n![libnotify 提醒](https://raw.githubusercontent.com/Simpleyyt/web-weixin/master/screenshot/indicator.png)\r\n\r\n## 安装\r\n\r\n添加 PPA 并安装：\r\n\r\n```sh\r\nsudo add-apt-repository ppa:simpleyyt/ppa\r\nsudo apt-get update\r\nsudo apt-get install web-weixin\r\n```\r\n\r\n## 依赖\r\n\r\n * gobject-2.0\r\n * glib-2.0\r\n * gio-2.0\r\n * gtk+-3.0>=3.12\r\n * webkit2gtk-4.0\r\n * appindicator3-0.1\r\n\r\n## 编译\r\n\r\n```sh\r\nmkdir build\r\ncd build\r\ncmake .. -DCMAKE_INSTALL_PREFIX=/usr\r\nmake\r\nsudo make install\r\n```\r\n\r\n## Bugs\r\n\r\n * 有时候需要退2次才能退出程序。\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
