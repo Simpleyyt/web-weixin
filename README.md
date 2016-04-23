@@ -23,6 +23,7 @@ elementaryOS 或 Ubuntu 上的 Web 版微信应用。
 sudo add-apt-repository ppa:simpleyyt/ppa
 sudo apt-get update
 sudo apt-get install web-weixin
+```
 
 ## 依赖
 
